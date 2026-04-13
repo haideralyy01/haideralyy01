@@ -34,7 +34,7 @@ I enjoy working with Node.js, Express, and MongoDB, and I’m constantly improvi
 
 <p align="left">
   <b>Languages & Tools:</b><br>
-  <img src="https://skillicons.dev/icons?i=java,go,ts,react" />
+  <img src="https://skillicons.dev/icons?i=java,go" />
 </p>
 
 ---
@@ -81,8 +81,8 @@ I enjoy working with Node.js, Express, and MongoDB, and I’m constantly improvi
 ### 🔥 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haideralyy01&show_icons=true" width="350"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=haideralyy01&layout=compact" width="350"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=haideralyy01&show_icons=true" width="350"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haideralyy01&layout=compact" width="350"/>
 </p>
 
 ---
