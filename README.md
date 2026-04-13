@@ -84,8 +84,8 @@ I enjoy working with Node.js, Express, and MongoDB, and I’m constantly improvi
 ### 🔥 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haideralyy01&show_icons=true&cache_seconds=1800" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haideralyy01&layout=compact&cache_seconds=1800" width="350"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=haideralyy01&show_icons=true" width="350"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haideralyy01&layout=compact" width="350"/>
 </p>
 </p>
 
