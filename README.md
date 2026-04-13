@@ -23,7 +23,8 @@ I enjoy working with Node.js, Express, and MongoDB, and I’m constantly improvi
 <h3 align="left">🌱 Currently Learning:</h3>
 <p align="left">
   - Data Structures & Algorithms (DSA) <br>
-  - Web Development (Full-Stack) <br>
+  - TypeScript & React <br>
+  - Java & Go <br>
   - Exploring Web3 & Blockchain fundamentals
 </p>
 
@@ -32,7 +33,7 @@ I enjoy working with Node.js, Express, and MongoDB, and I’m constantly improvi
 <h3 align="left">🛠️ Tech Stack:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,c,nodejs,express,mongodb,html,css&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,c,nodejs,express,mongodb,react,html,css,npm&perline=6" />
   </a>
 </p>
 
@@ -62,16 +63,10 @@ I enjoy working with Node.js, Express, and MongoDB, and I’m constantly improvi
 
 ### 🔥 GitHub Stats:
 
-<table align="center" style="table-layout:fixed; width: 100%; padding: 10px;">
-  <tr>
-    <td align="center" style="padding: 10px; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=haideralyy01&show_icons=true&theme=default" width="350" />
-    </td>
-    <td align="center" style="padding: 10px; width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haideralyy01&layout=compact" width="350" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=haideralyy01&show_icons=true" width="350"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=haideralyy01&layout=compact" width="350"/>
+</p>
 
 ---
 
