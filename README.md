@@ -78,15 +78,10 @@ I enjoy working with Node.js, Express, and MongoDB, and I’m constantly improvi
 
 ---
 
-### 🔥 GitHub Stats:
+### ⚡ About Me
 
 <p align="center">
-### 🔥 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=haideralyy01&show_icons=true" width="350"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haideralyy01&layout=compact" width="350"/>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Full-Stack+Learner;DSA+Enthusiast;Exploring+Web3+%26+Blockchain" />
 </p>
 
 ---
