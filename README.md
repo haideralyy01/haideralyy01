@@ -30,6 +30,23 @@ I enjoy working with Node.js, Express, and MongoDB, and I’m constantly improvi
 
 ---
 
+<h3 align="left">🌱 Currently Learning:</h3>
+
+<p align="left">
+  <b>Languages & Tools:</b><br>
+  <img src="https://skillicons.dev/icons?i=java,go,ts,react" />
+</p>
+
+---
+
+<p align="left">
+  <b>Focus Areas:</b><br>
+  - Data Structures & Algorithms (DSA) <br>
+  - Web3 & Blockchain fundamentals
+</p>
+
+---
+
 <h3 align="left">🛠️ Tech Stack:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
