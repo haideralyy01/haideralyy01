@@ -9,11 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Scalable+Web+Applications;Real-Time+Systems+%7C+Modern+Digital+Experiences;Next.js+%26+the+JavaScript+Ecosystem." />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haideralyy01&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/haideralyy01?label=Followers&style=flat&color=0e75b6" alt="followers" />
-</p>
-
 ---
 
 <img align="right" alt="Coding" width="340" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
